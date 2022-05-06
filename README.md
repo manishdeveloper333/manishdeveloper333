@@ -1,5 +1,5 @@
-### Hey !💡 <img src="proj1-removebg-preview.png"  width="100px">
-
+<img src="proj1-removebg-preview.png"  width="100px">
+### Hey !💡 
 Here are some ideas to get you started:
  ✨ ✨ ✨ ✨
 <h4 align="center">A passionate frontend developer from NOIDA</h4>
