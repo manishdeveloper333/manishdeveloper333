@@ -1,6 +1,6 @@
 <img src="proj1-removebg-preview.png"  width="100px">
-
-Here are some ideas to get you started:
+<hr>
+<hr>
  ✨ ✨ ✨ ✨
 <h1 align="center">Hey!👋, I am Manish srivas</h1>
 <h3 align="center">A passionate frontend developer from NOIDA</h3>
