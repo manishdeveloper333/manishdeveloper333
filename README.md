@@ -1,9 +1,8 @@
-### Hi there 💡 <img src="proj1-removebg-preview.png"  width="100px">
-**manishdeveloper333/manishdeveloper333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey !💡 <img src="proj1-removebg-preview.png"  width="100px">
 
 Here are some ideas to get you started:
  ✨ ✨ ✨ ✨
-<h3 align="center">A passionate frontend developer from NOIDA</h3>
+<h4 align="center">A passionate frontend developer from NOIDA</h4>
 
 - 🌱 I’m currently learning **Front -End(HTML,CSS JAVASCRIPT)**
 
