@@ -9,7 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/manishdeveloper333?tab=repositories](https://github.com/manishdeveloper333?tab=repositories)
 
-- 😄 Pronouns: manishdeveloper333.github.io
+- 😄 Pronouns: manishdeveloper333.github.io**
+
 - 📫 How to reach me **manishsrivas333@gmail.com**
 
 - ⚡ Fun fact **I am little selfish😁**
