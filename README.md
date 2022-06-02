@@ -7,7 +7,8 @@
 
 - 🌱 I’m currently learning **Front -End(HTML,CSS JAVASCRIPT)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/manishdeveloper333?tab=repositories]([https://github.com/manishdeveloper333?tab=repositories])
+- 👨‍💻 All of my projects are available at https://github.com/manishdeveloper333/Projects
+
 
 - 😄 Pronouns: https://manishdeveloper333.github.io/
 
