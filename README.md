@@ -14,7 +14,6 @@
 
 - 📫 How to reach me **manishsrivas333@gmail.com**
 
-- ⚡ Fun fact **I am little selfish😁**
 
 <hr>
 <h3 align="left">Connect with me:</h3>
