@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hey!👋, I am Manish srivas</h1>
-<h3 align="center">A passionate frontend developer from NOIDA</h3>
+<h3 align="center">A passionate web- developer from NOIDA</h3>
 
 - 🌱 I’m currently learning **Front -End(HTML,CSS JAVASCRIPT)**
 
